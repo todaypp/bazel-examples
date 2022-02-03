@@ -13,5 +13,4 @@ public class TestApp {
     App app = new App();
     assertEquals("should return 0 when both numbers are equal", 0, app.compare(1, 1));
   }
-
 }
